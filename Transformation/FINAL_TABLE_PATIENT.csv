@@ -1,0 +1,151 @@
+,Patient_ID,Insurance_ID,Hospital_ID,Gender,DOB,Phone,Nationality,Insurance_type,Address,Name
+0,45098,1003,90001,F,2002-05-09,8908908398,Indian, Longterm,23- asp road  kolkata 64 India,Akriti Singh
+1,45099,1003,90003,M,2001-02-02,9087988092,Indian,  Short term,12- sp Mukherjee road kolkata 87 India,Pritam Bannerjee 
+2,45100,1003,90005,M,2001-06-09,9900887766,Indian,  Long term,34- roy road howrah 34 India,  Salim Khan
+3,45101,1003,90002,M,2000-08-07,9988455767,Indian,  Long term,34 chellam road Chennai 01 India,Yasoof Akhtar
+4,45102,1003,90003,F,2003-07-08,9090123467,Indian,  Short term,46 bb roy road karnataka 04 India,Wahida  Begum
+5,45103,1003,90004,M,1992-03-09,9807890979,Indian,  Short term,36- purnadas road kolkata 67 India,Saheb   Chowdhury 
+6,45104,1003,90004,F,1990-04-10,9089757868,Indian,  Long term,34- ks sahani road. Mumbai 05 India,Liza Kusari
+7,45105,1003,90001,M,2000-09-06,9999977685,Indian,  Short term  ,45- linson road kolkata 98 India,Rahul Parmar
+8,45106,1003,90005,F,2001-09-09,9999963667,Indian,   Long term ,23- roy road kolkata 98 India,Koyel Singh
+9,45107,1003,90002,F,2002-09-08,9864680066,Indian,Short term,88- BM road Chennai 67 India,Rai  Sen
+10,45108,1003,90003,F,1999-02-09,9876543210,Indian,Long term ,90- roy road kolkata 89 India,Saina Das
+11,45109,1003,90001,F,1997-03-08,9638527410,Indian,Short term,34- ss road Bombay 01 India,Saili Goyel
+12,45110,1003,90002,F,1992-07-22,9518742360,Indian,Long term ,44- cc road Malda 09 India,Lianna Reddy
+13,45111,1003,90003,F,1995-03-22,9638521470,Indian,Long term ,34-yk road punjab 99 India,Sanvi Shetty
+14,45112,1003,90005,M,1980-09-13,9032165478,Indian,Long term ,44- suresh roy road kolkata 9 India,Sourav Sanyal
+15,45113,1003,90004,M,1999-11-15,9874563210,Indian,Short term,3- gg road punjab 89 India,Rounak Bansal
+16,45114,1003,90002,F,1998-12-16,9785463210,Indian,Short term,3- du road delhi 09 India,Diya Gupta 
+17,45115,1003,90004,F,1970-11-22,9302165478,Indian,Short term,4- s street Maharashtra 22 India,Aparajita  Rajput
+18,45116,1003,90005,F,2001-12-12,9632258740,Indian,Short term,8- kunal sahani road Chennai 9 India,Koyena Kapoor
+19,45117,1003,90001,F,1990-12-16,9936852014,Indian,Long term ,9- ss roy road  Delhi 09 India,Khushi Khan
+20,45118,1003,90002,F,1990-12-15,9985214730,Indian,Long term ,3 - hosenpur Burdwan 89 India,Oli Begum
+21,45119,1003,90005,F,2001-03-03,9302651478,Indian,Long term ,4- roy ghose road kolkata  08 India,Riya Roy
+22,45120,1003,90002,F,2004-04-04,9102365478,Indian,Long term ,44- rr r34ad  Bombay 34 India,Diyali Adhya
+23,45121,1003,90004,F,2004-05-05,9321456870,Indian,Short term,8- kumar road Nadia 7 India,Piya Karmakar
+24,45122,1003,90003,F,2001-07-05,8974563210,Indian,Short term,4- yakoob street howrah 89 India,Naira Bose
+25,45123,1003,90001,F,2002-03-05,8520369741,Indian,Short term,7- kk road Chennai 09 India,Mollika Singhania
+26,45124,1003,90004,M,1990-01-01,8569741230,Indian,Short term,89- gh road Darjeeling 98 India,Dev Maheswari
+27,45125,1003,90003,M,1998-01-01,8963215470,Indian,Short term,78- sd road Maharashtra 09 India,Pranav Goyenka
+28,45126,1003,90004,M,1995-02-02,9632154703,Indian,Short term,44- dh road  Delhi 9 India,Amit Paul
+29,45127,1003,90002,M,1996-03-03,9631478240,Indian,Short term,77- os road Maharashtra 9 India,Guru Samanta
+30,45128,1003,90001,M,1993-04-03,9321445300,Indian,Short term,9- linkon street kolkata 9 India,Rohan Ghose
+31,45129,1003,90003,M,1996-04-02,9632154084,Indian,Short term,4- kumar road Midnapur 09 India,Sahil Goswami
+32,45130,1003,90002,M,1993-06-07,9632175003,Indian,Short term,3s- dd roy road Kolkata 9 India,Jay Mitra
+33,45131,1003,90005,F,1992-05-06,9654871320,Indian,Long term ,4- fs road Delhi 9 India,Kuheli Sarkar
+34,45132,1003,90004,M,2003-05-25,9654872330,Indian,Long term ,3f- gg road Pune 7 India,Akash Kundra
+35,45133,1003,90003,M,1993-05-25,9658741255,Indian,Long term ,3h- jj bose road kolkata 7 India,Anil Das
+36,45134,1003,90004,M,1994-03-02,9874563202,Indian,Long term ,9- vb road Mumbai 6 India,Mukesh Bose
+37,45135,1003,90001,M,1996-02-03,6312412554,Indian,Long term ,2- sr road Pune 4 India,Lokesh Ghose
+38,45136,1003,90002,M,1997-02-03,9331554780,Indian,Long term ,4- kk road Karnataka 6 India,Dinesh Sen
+39,45137,1003,90005,F,1990-06-03,9621554763,Indian,Long term ,3v- vvs road bombay 3 India,Hiyantika Saha
+40,45138,1003,90003,F,1993-01-03,8695441232,Indian,Long term ,4- hh road Uttarpradesh 98 India,Joti Chowdhury 
+41,45139,1003,90002,F,1992-02-03,8561336222,Indian,Long term ,6 - Fort William street kolkata 9 India,Rani Chakraborty 
+42,45140,1003,90001,M,1995-02-06,9311003144,Indian,Long term ,6- yu road Kolkata 7 India,Dharmesh  Singh
+43,45141,1003,90004,M,1997-04-06,6548213322,Indian,Long term ,6- hu road Chennai 95 India,Faizal Khan
+44,45142,1003,90005,M,1999-02-03,9612365472,Indian,Long term ,7- ju colony kolkata 7 India,Afzal Alam
+45,45143,1003,90001,M,1998-02-03,9631102555,Indian,Long term ,77- garia road Kolkata 5 India,Sumit Das
+46,45144,1003,90002,M,1989-02-03,9458712362,Indian,Long term ,6- cc road Maharahtra 6 India,Ravan Chauhaan
+47,45145,1003,90003,M,1995-03-02,9874133520,Indian,Short term,7- cu road Chennai 8 India,Shravan Ghosal
+48,45146,1003,90004,M,1994-02-03,9321152200,Indian,Short term,9- chellam road Chennai 09 India,Kumar Majumdar
+49,45147,1003,90005,F,1999-11-12,9323210025,Indian,Short term,8- Shakespeare Avenue kolkata 98 India,Oindrila Ghose
+50,45148,1002,80001,F,2001-03-05,126154455,German,Long term ,34  Charles decan street  Germany,Bobby Baidya
+51,45149,1002,80003,F,2004-07-04,155588996,German,Short term,45 new golf  Berlin Germany,Rita  Modi
+52,45150,1002,80002,F,2004-05-04,178555555,German,Long term ,8  Bundimuttt  Avenue Road Germany,Sunita Sarkar
+53,45151,1002,80005,F,2001-09-05,145878584,German,Short term,Ramchandra Nagar No 1  Esis Hospital Rd  Thane (w) Germany,Fatima Hossain
+54,45152,1002,80003,M,2012-03-05,147856565,German,Short term,Plot 24 Aries House  Deonar  Shivaji Nagar Germany,Munawar Faruqui
+55,45153,1002,80001,M,1990-11-01,152365988,German,Long term ,5-1-523 Shop No 11  1st Floor  Hillstreet Germany,Siddarth Shukla
+56,45154,1002,80004,M,1998-07-07,154789855,German,Short term,Mohammad roaAn der Schillingbrucke 58  Aalen Wasse Germany,Yash Verma
+57,45155,1002,80001,M,1999-02-02,147796955,German,Short term,An der Alster 90  Gommern Germany,Gajendra Sharma
+58,45156,1002,80002,F,1996-09-03,152467985,German,Long term ,Knesebeckstra? 79  Wassenberg Germany,Shehnaaz Gill
+59,45157,1002,80003,M,1993-04-13,154777877,German,Long term ,Brandenburgische Str 46  Oberwesel Germany,Rohit Kumar
+60,45158,1002,80004,F,1996-09-02,152226597,German,Short term,Mollstrasse 16  Darmstadt Germany,Madhu Sudan
+61,45159,1002,80005,F,1993-06-07,165369599,German,Short term,L?zowplatz 16  Oberscheidweiler Germany,Bibha Devi
+62,45160,1002,80004,F,1992-05-05,154448996,German,Long term ,Flotowstr. 7  Aschersleben Germany,Neha Gupta 
+63,45161,1002,80005,M,2003-08-25,153698955,German,Short term,Rathausstrasse 76  Furth Germany,Rohan Das
+64,45162,1002,80001,M,1993-05-25,154778879,German,Long term ,Lietzensee-Ufer 96  Sonnewalde Germany,Humayu Sukla
+65,45163,1002,80002,M,1994-03-02,154789656,German,Short term,An der Schillingbrucke 22  Amstetten Germany,Ramesh Thakur
+66,45164,1002,80003,M,1996-12-03,155487877,German,Short term,Fasanenstrasse 27  Hamburg Sankt Georg Germany,Alok Pandit
+67,45165,1002,80004,M,1997-02-03,155636988,German,Short term,Storkower Strasse 93  Neuwied Germany,Tanvir Ansari
+68,45166,1002,80001,M,1990-06-03,159887455,German,Long term ,Reeperbahn 86  Heringsdorf Germany,Abdul Jahid
+69,45167,1002,80002,M,1993-05-03,156636598,German,Short term,Anhalter Strasse 54  Oberndorf Germany,Suresh Verma
+70,45168,1002,80005,M,1992-08-03,157988245,German,Short term,Hedemannstasse 39  Lorrach Tullingen Germany,Ravi Teja
+71,45169,1002,80003,M,1995-12-06,153659856,German,Long term ,Marseiller Strasse 60  Mallersdorf Germany,Tanmay Anmol
+72,45170,1002,80004,M,1997-04-06,147695532,German,Short term,Fischerinsel 13  Monchengladbach Germany,Subham Sagar
+73,45171,1002,80004,M,1990-02-03,153665454,German,Long term ,Stresemannstr. 47  Uberheren  Germany,Abhishek Tiwary
+74,45172,1002,80001,M,1983-01-03,148785278,German,Short term,Marseiller Strasse 45  M?chengladbach R?neter Germany,Ranvir Rajput
+75,45173,1002,80005,F,1997-12-14,125858536,German,Long term,Bantikow 68 Brandenburg Germany,Susmita Kar
+76,45174,1002,80002,F,1984-07-25,156123698,German,Long term,Albersdorf 67 Schlewig-Holstein Germany,Rebecca Black
+77,45175,1002,80003,M,1988-09-16,178124566,German,Short term,Berlin 77 Berlin Germany,Jack Pearson
+78,45176,1002,80001,F,1985-03-24,189235649,German,Long term,Brockwitz 61 Sachsen Germany,Kate Deamon
+79,45177,1002,80002,M,1983-01-08,145892356,German,Short term,Celle 29 Niedersachsen Germany,Tobby Gilbert
+80,45178,1002,80004,F,1984-08-19,157458956,German,Short term,Klein Gartz 16 Sachsen-Anhalt Germany,Anne Frank
+81,45179,1002,80005,F,1986-07-21,123564258,German,Long term,Chemnitz 11 Sachsen Germany,Deiza Rich
+82,45180,1002,80004,M,1997-01-02,156732615,German,Long term,Langeln 85 Schlewig-Holstein Germany,Kevin Swift
+83,45181,1002,80004,M,1996-11-22,173164528,German,Long term,Matzerath 97 Rheinland-Pfalz Germany,Randall Salvator
+84,45182,1002,80001,F,1998-12-23,183164259,German,Long term,Ronneburg 49 Hessen Germany,Nickie Blike
+85,45183,1002,80002,F,1993-01-04,152891245,German,Short term,Darmstadt 91 Hessen Germany,Rishita Mookim
+86,45184,1002,80003,M,1987-04-05,151635254,German,Short term,Leppin 15 Sachsen-Anhalt Germany,Alex Being
+87,45185,1002,80002,F,1994-01-16,154563212,German,Short term,Pohle 67 Niedersachsen Germany,Prajnadipta Kundu
+88,45186,1002,80001,M,1987-08-07,159613245,German,Long term,Joldelund 62 Schlewig-Holstein Germany,Frannie Tribiani
+89,45187,1002,80003,M,1983-03-18,145332588,German,Short term,Kaltohmfeld 39 Th?ingen Germany,Madison Geller
+90,45188,1002,80001,M,1988-06-29,165197825,German,Long term,Frauenchiemsee 56 Bayern Germany,Beth Maxwell
+91,45189,1002,80005,M,1999-04-30,133256687,German,Short term,Daskow 20 Mecklenburg-Vorpommern Germany,Tedd Blue
+92,45190,1002,80004,F,1991-10-11,153261972,German,Long term,Oberlauterbach 39 Sachsen Germany,Lily Young
+93,45191,1002,80003,F,1995-07-22,156338812,German,Long term,Sarmersbach 52 Rheinland-Pfalz Germany,Elina Green
+94,45192,1002,80004,M,1990-01-13,137826985,German,Long term,Karlsburgerholz 98 Schlewig-Holstein Germany,Marshell Jered
+95,45193,1002,80003,F,1984-04-04,185263619,German,Long term,Neuerburg 73 Rheinland-Pfalz Germany,Barney Saltzman
+96,45194,1002,80002,M,1993-11-25,158963218,German,Short term,Engeln 05 Niedersachsen Germany,Harry Styles
+97,45195,1002,80003,M,1999-08-26,139261542,German,Long term,Kaltenbrunn 00 Bayern Germany,Migueal Buffet
+98,45196,1002,80002,M,1988-01-20,159632689,German,Long term,Gatow 06 Brandenburg Germany,Peter Walter
+99,45197,1002,80004,F,2005-05-18,151568237,German,Short term,Egling 44 Bayern Germany,Josie Blyth
+100,56001,1001,70001,M,1997-09-07,7405287715,American,Long Term,1660 Meadow DriveTennessee 27 USA,James Smith
+101,56002,1001,70005,M,2000-10-23,4014206598,American,Short Term,4427 Green hill road Arkanas 08 USA,William Johnson
+102,56003,1001,70004,M,1995-09-09,3206314704,American,Long Term,776 Harper street  kentucky 65  USA,Robert Miller
+103,56004,1001,70002,F,1990-12-01,4057383290,American,Long Term,53 Flynn Street Nebraska 16 USA,Linda Brown
+104,56005,1001,70003,F,1992-12-10,7852043820,American,Short Term,3085 simons road pennysylvania 34 USA,Michael Lopez
+105,56006,1001,70005,M,1993-09-12,8567861851,American,Short Term,2929 forest drive kansas 05 USA,David Taylor
+106,56007,1001,70004,M,1980-06-12,2033717844,American,Long Term,3 Herald New York 10001-3065 USA USA,Richard Moore
+107,56008,1001,70003,F,1989-08-10,6176708406,American,Short Term,42 W 35TH New York 10001-2233 USA,Patricia Jackson
+108,56009,1001,70002,M,2000-03-30,7087782228,American,Short Term,213 W 35th New York NY  USA,Thomas White
+109,56010,1001,70001,M,1997-02-24,6204418173,American,Short Term,350 W 31st New York USA,Charles Thompson
+110,56011,1001,70001,M,1982-02-20,6263710734,American,Long Term,939 Stadium Drive Massachusetts  USA,Christopher Lewis
+111,56012,1001,70003,M,1991-06-29,3472705647,American,Short Term,3319 HORSESHOE LANE CALIFORNIA USA,Daniel Robinson
+112,56013,1001,70005,M,1988-09-19,6172934991,American,Short Term,4170 POPLAR STREET  ILLIOIS USA,Mathew Wright
+113,56014,1001,70002,F,1990-07-21,9319498457,American,Long Term,1135 NORMAN STREET  CALIFORNIA USA,Mary Torres
+114,56015,1001,70004,F,1998-08-14,2679529641,American,Short Term,3432 SYCAMORE STREET CALIFORNIA USA,Jennifer Radcliff
+115,56016,1001,70004,M,1996-05-22,8136448607,American,Long Term,2234 CRUMIT ROAD   OHIO USA,John Carter
+116,56017,1001,70002,M,1993-04-03,6192008718,American,Short Term,1596 OLEN THOMAS DRIVE  TEXAS USA,Joseph Gomez
+117,56018,1001,70003,F,1994-11-23,4804395916,American,Long Term,4852 VELTRI DRIVE ALASKA USA,Jessica Phillips
+118,56019,1001,70001,M,1989-08-19,3014947403,American,Long Term,1635 WHITMAN COURT CONNECTICUT USA,Mark Parker
+119,56020,1001,70005,M,1979-08-04,7142610514,American,Short Term,4918 JOY LANE CALIFORNIA USA,Louis Payne
+120,56021,1001,70004,M,1987-07-07,8125245064,American,Short Term,1368 RAOUL WALLENBERG PLACE CALIFORNIA USA,Brian Styles
+121,56022,1001,70002,F,2002-06-19,9542675114,American,Long Term,2077 MYRA STREET  RHODE ISLAND USA,Emily Mendes
+122,56023,1001,70003,M,1993-03-06,6038317666,American,Long Term,1281 STRAFORD PARK  KENTUCKY USA,George Edwards
+123,56024,1001,70001,F,1995-09-30,6313403641,American,Short Term,1399 PHEASANT RIDGE PROAD CALIFORNIA USA,Amanda Morris
+124,56025,1001,70005,M,2001-10-01,4234394590,American,Long Term,254 ANMOORE ROAD  NEW YORK USA,Ryan Rogers
+125,56026,1001,70003,F,1990-06-08,9184685062,American,Long Term,210 JOYCE STREET MICHIGAN USA,Amy Cooper
+126,56027,1001,70001,M,1993-02-09,7149825766,American,Short Term,2421 WORTHINGTON DRIVE TEXAS USA,Eric Howard
+127,56028,1001,70005,F,1987-10-05,5704603708,American,Short Term,3715 LOCUST COURT CALIFORNIA USA,Brenda Ward
+128,56029,1001,70002,M,1986-04-04,4694378723,American,Long Term,137 FLINDERTON ROAD NEBRASKA USA,Stephen Brooks
+129,56030,1001,70004,M,1999-02-20,4803068476,American,Long Term,673 PRUDENCE STREET MICHIGAN USA,Nicholas Wood
+130,56031,1001,70001,F,2002-09-07,7752700333,American,Short Term,4398 RIVERSIDE DRIVE GEORGIA USA,Laura Renolds
+131,56032,1001,70004,M,2001-08-09,6362660854,American,Short Term,3306 DRUMMOND STREET NEW JERSEY USA,Ronald Jones
+132,56033,1001,70002,F,1992-07-08,7165444499,American,Long Term,4328 CHRISTLE WAY MASSACHUSETTS USA,Melissa Miller
+133,56034,1001,70005,M,1992-08-10,6143795120,American,Long Term,4976 BINGAMON ROAD  OHIO USA,Stephanie Walker
+134,56035,1001,70003,M,1998-06-11,7242399872,American,Short Term,3880 HEDDENVIEW DRIVE PENNYSYLVIA USA,Jacob Allen
+135,56036,1001,70004,F,2003-04-19,8144906704,American,Long Term,1900 ELK STREET CALIFORNIA USA,Emma Green
+136,56037,1001,70005,F,1996-07-23,9178655373,American,Short Term,3262 DALE AVENUE  WASHINGTON USA,Cynthia Nelson
+137,56038,1001,70001,F,2000-10-14,3377077508,American,Long Term,3987 CONFEDERATE DRIVE NEW YORK USA,Sharon Evans
+138,56039,1001,70002,M,1985-06-13,5175638419,American,Long Term,2245 LONG STREET FLORIDA USA,Gary Collins
+139,56040,1001,70003,F,1986-04-17,7132351867,American,Short Term,1995 EVERETTE ALLEY  FLORIDA USA,Shirley Stewart
+140,56041,1001,70004,M,1999-07-12,4158313288,American,Short Term,4476 BRYAN STREET  NORTH CAROLINA USA,Scott Peterson
+141,56042,1001,70005,M,1991-06-03,6098311220,American,Long Term,3172 DUNCAN AVENUE  NEW YORK USA,Frank Ramos
+142,56043,1001,70004,M,1982-07-08,6506558650,American,Long Term,1002 ROCKY ROAD  OHIO USA,Patrick Long
+143,56044,1001,70003,M,1987-09-13,6097259806,American,Short Term,377 PEARCY AVENUE  FLORIDA USA,Jack Butler
+144,56045,1001,70001,M,1990-01-20,6416922264,American,Short Term,904 JETT LANE MICHIGAN USA,Tyler Gonzales
+145,56046,1001,70002,F,1999-11-16,6199202675,American,Long Term,4063 ROSEWOOD LANE  GEORGIA USA,Kelly Griffin
+146,56047,1001,70003,F,1992-10-23,9257669394,American,Short Term,952 STILL STREET   OHIO USA,Megan Ford
+147,56048,1001,70004,M,1984-03-21,4436766439,American,Long Term,1861 BUENA VISTA AVENUE OREGON USA,Roger Marshall
+148,56049,1001,70005,M,1992-04-05,5103345478,American,Long Term,242 YORKIE LANE  CALIFORNIA USA,Janice Wells
+149,56050,1001,70002,M,1988-05-26,6478894305,American,Short Term,132 MUDLICK ROAD WASHINGTON USA,Jordan Holmes

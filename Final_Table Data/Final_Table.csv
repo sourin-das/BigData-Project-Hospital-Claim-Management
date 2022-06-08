@@ -1,0 +1,58 @@
+Patient_name,Patient_address,Claim_ID,Insurance_details,Claim_status_details,Claim_issue_date,Insurer_term,Patient_age,Group_details,Insurance_amount
+Liza Kusari,34- ks sahani road. Mumbai 05 India,4007,"Critical illness Insurance,Birla Sun Life Insurance Co.","In Process,ACTIVE",2021-12-12,20,32,"Genetic Illness,Down syndrome",550000
+Liza Kusari,34- ks sahani road. Mumbai 05 India,4060,"Critical illness Insurance,Birla Sun Life Insurance Co.","In Process,ACTIVE",2022-01-14,20,32,"Accident,Road-traffic accident",550000
+Sanvi Shetty,34-yk road punjab 99 India,4014,"Critical illness Insurance,Birla Sun Life Insurance Co.","Settled,RECOVERED",2022-01-03,20,27,"Critical Illness,Kidney failure",550000
+Sanvi Shetty,34-yk road punjab 99 India,4069,"Critical illness Insurance,Birla Sun Life Insurance Co.","Settled,RECOVERED",2022-03-03,20,27,"Industrial Disease,Dermatitis",550000
+Khushi Khan,9- ss roy road  Delhi 09 India,4020,"Critical illness Insurance,Birla Sun Life Insurance Co.","Settled,RECOVERED",2021-11-04,20,32,"Accident,Burn Cases",550000
+Khushi Khan,9- ss roy road  Delhi 09 India,4073,"Critical illness Insurance,Birla Sun Life Insurance Co.","Settled,RECOVERED",2022-01-23,20,32,"Critical Illness,First heart attack",550000
+Mollika Singhania,7- kk road Chennai 09 India,4026,"Critical illness Insurance,Birla Sun Life Insurance Co.","In Process,ACTIVE",2022-05-18,20,20,"Accident,Current Shock",550000
+Mollika Singhania,7- kk road Chennai 09 India,4074,"Critical illness Insurance,Birla Sun Life Insurance Co.","In Process,ACTIVE",2022-01-15,20,20,"Surgeries,Nasal Concha",550000
+Rohan Ghose,9- linkon street kolkata 9 India,4031,"Critical illness Insurance,Birla Sun Life Insurance Co.","In Process,ACTIVE",2022-05-14,20,29,"Industrial Disease,Musculoskeletal disorder",550000
+Rohan Ghose,9- linkon street kolkata 9 India,4090,"Critical illness Insurance,Birla Sun Life Insurance Co.","Invalid,INVALID",2022-07-03,20,29,"Accident,Fractures caused by falls",550000
+Lokesh Ghose,2- sr road Pune 4 India,4038,"Critical illness Insurance,Birla Sun Life Insurance Co.","Invalid,INVALID",2022-04-01,20,26,"Industrial Disease,Respiratory Problems",550000
+Lokesh Ghose,2- sr road Pune 4 India,4081,"Critical illness Insurance,Birla Sun Life Insurance Co.","In Process,ACTIVE",2022-11-02,20,26,"Surgeries,Oncology",550000
+Rani Chakraborty ,6 - Fort William street kolkata 9 India,4042,"Critical illness Insurance,Birla Sun Life Insurance Co.","In Process,ACTIVE",2022-02-29,20,30,"Accident,Burn Cases",550000
+Afzal Alam,7- ju colony kolkata 7 India,4045,"Critical illness Insurance,Birla Sun Life Insurance Co.","Invalid,INVALID",2022-03-31,20,23,"Genetic Illness,Trisomy 13",550000
+Shravan Ghosal,7- cu road Chennai 8 India,4048,"Critical illness Insurance,Birla Sun Life Insurance Co.","Settled,RECOVERED",         2022/5/8,20,27,"Surgeries,Neurological Surgery",550000
+Koyel Singh,23- roy road kolkata 98 India,4009,"Critical illness Insurance,Birla Sun Life Insurance Co.","Invalid,INVALID",2022-05-09,20,21,"Surgeries,Chemotherapy",550000
+Guru Samanta,77- os road Maharashtra 9 India,4030,"Critical illness Insurance,Birla Sun Life Insurance Co.","Invalid,INVALID",2022-04-21,20,26,"Surgeries,Hystoscopy",550000
+Mukesh Bose,9- vb road Mumbai 6 India,4037,"Critical illness Insurance,Birla Sun Life Insurance Co.","Settled,RECOVERED",2022-04-07,20,28,"Accident,Fractures caused by falls",550000
+Rounak Bansal,3- gg road punjab 89 India,4016,"Critical illness Insurance,Birla Sun Life Insurance Co.","Settled,RECOVERED",2021-11-12,20,23,"Genetic Illness,Turner syndrome",550000
+Piya Karmakar,8- kumar road Nadia 7 India,4024,"Critical illness Insurance,Birla Sun Life Insurance Co.","In Process,ACTIVE",2022-04-30,20,18,"Industrial Disease,Dermatitis",550000
+Oindrila Ghose,8- Shakespeare Avenue kolkata 98 India,4050,"Critical illness Insurance,Birla Sun Life Insurance Co.","In Process,ACTIVE",2022-04-23,20,23,"Critical Illness,Paralysis",550000
+Bobby Baidya,34  Charles decan street  Germany,4110,"Family Health Insurance,Edelweiss Life Insurance Co.","In Process,ACTIVE",2022-04-02,18,21,"Industrial Disease,Breathing Problems",600000
+Bobby Baidya,34  Charles decan street  Germany,4051,"Family Health Insurance,Edelweiss Life Insurance Co.","In Process,ACTIVE",2021-12-31,18,21,"Accident,Road-traffic accident",600000
+Sunita Sarkar,8  Bundimuttt  Avenue Road Germany,4053,"Family Health Insurance,Edelweiss Life Insurance Co.","Settled,RECOVERED",2021-05-22,18,18,"Accident,Fractures caused by falls",600000
+Sunita Sarkar,8  Bundimuttt  Avenue Road Germany,4101,"Family Health Insurance,Edelweiss Life Insurance Co.","Settled,RECOVERED",2021-09-08,18,18,"Accident,Gun shot",600000
+Munawar Faruqui,Plot 24 Aries House  Deonar  Shivaji Nagar Germany,4055,"Family Health Insurance,Edelweiss Life Insurance Co.","Settled,RECOVERED",2022-02-02,18,10,"Accident,Fractures caused by falls",600000
+Munawar Faruqui,Plot 24 Aries House  Deonar  Shivaji Nagar Germany,4103,"Family Health Insurance,Edelweiss Life Insurance Co.","Settled,RECOVERED",2022-05-04,18,10,"Accident,Fractures caused by falls",600000
+Shehnaaz Gill,Knesebeckstraﬂe 79  Wassenberg Germany,4059,"Family Health Insurance,Edelweiss Life Insurance Co.","In Process,ACTIVE",2021-09-16,18,26,"Industrial Disease,Respiratory Problems",600000
+Shehnaaz Gill,Knesebeckstraﬂe 79  Wassenberg Germany,4105,"Family Health Insurance,Edelweiss Life Insurance Co.","In Process,ACTIVE",2021-03-09,18,26,"Industrial Disease,Respiratory Problems",600000
+Madhu Sudan,Mollstrasse 16  Darmstadt Germany,4061,"Family Health Insurance,Edelweiss Life Insurance Co.","In Process,ACTIVE",2022-01-21,18,26,"Critical Illness,Paralysis",600000
+Madhu Sudan,Mollstrasse 16  Darmstadt Germany,4107,"Family Health Insurance,Edelweiss Life Insurance Co.","In Process,ACTIVE",2021-09-29,18,26,"Critical Illness,First heart attack",600000
+Ramesh Thakur,An der Schillingbrucke 22  Amstetten Germany,4066,"Family Health Insurance,Edelweiss Life Insurance Co.","Invalid,INVALID",2021-12-08,18,28,"Surgeries,Chemotherapy",600000
+Ramesh Thakur,An der Schillingbrucke 22  Amstetten Germany,4109,"Family Health Insurance,Edelweiss Life Insurance Co.","Invalid,INVALID",2022-02-02,18,28,"Surgeries,Hystoscopy",600000
+Suresh Verma,Anhalter Strasse 54  Oberndorf Germany,4070,"Family Health Insurance,Edelweiss Life Insurance Co.","In Process,ACTIVE",2022-03-01,18,29,"Accident,Road-traffic accident",600000
+Tanmay Anmol,Marseiller Strasse 60  Mallersdorf Germany,4072,"Family Health Insurance,Edelweiss Life Insurance Co.","Invalid,INVALID",2021-12-11,18,27,"Accident,Fractures caused by falls",600000
+Rebecca Black,Albersdorf 67 Schlewig-Holstein Germany,4077,"Family Health Insurance,Edelweiss Life Insurance Co.","Settled,RECOVERED",2022-01-02,18,38,"Industrial Disease,Dermatitis",600000
+Tobby Gilbert,Celle 29 Niedersachsen Germany,4080,"Family Health Insurance,Edelweiss Life Insurance Co.","Invalid,INVALID",2022-01-01,18,39,"Genetic Illness,Trisomy 13",600000
+Rishita Mookim,Darmstadt 91 Hessen Germany,4086,"Family Health Insurance,Edelweiss Life Insurance Co.","Settled,RECOVERED",2022-01-22,18,39,"Genetic Illness,Turner syndrome",600000
+Frannie Tribiani,Joldelund 62 Schlewig-Holstein Germany,4089,"Family Health Insurance,Edelweiss Life Insurance Co.","Settled,RECOVERED",2022-01-02,18,35,"Genetic Illness,Down syndrome",600000
+Barney Saltzman,Neuerburg 73 Rheinland-Pfalz Germany,4096,"Family Health Insurance,Edelweiss Life Insurance Co.","Invalid,INVALID",2021-03-11,18,38,"Surgeries,Hystoscopy",600000
+Migueal Buffet,Kaltenbrunn 00 Bayern Germany,4098,"Family Health Insurance,Edelweiss Life Insurance Co.","In Process,ACTIVE",2022-06-05,18,23,"Critical Illness,Paralysis",600000
+Josie Blyth,Egling 44 Bayern Germany,4100,"Family Health Insurance,Edelweiss Life Insurance Co.","In Process,ACTIVE",2022-12-05,18,17,"Industrial Disease,Dermatitis",600000
+Michael Lopez,3085 simons road pennysylvania 34 USA,5005,"Individual Health Insurance,Aegon Life Insurance Co. Ltd.","In Process,ACTIVE",2021-12-02,15,30,"Accident,Fractures caused by falls",400000
+Patricia Jackson,42 W 35TH New York 10001-2233 USA,5008,"Individual Health Insurance,Aegon Life Insurance Co. Ltd.","Settled,RECOVERED",2022-01-05,15,33,"Industrial Disease,Dermatitis",400000
+Emily Mendes,2077 MYRA STREET  RHODE ISLAND USA,5022,"Individual Health Insurance,Aegon Life Insurance Co. Ltd.","Settled,RECOVERED",2021-04-12,15,20,"Industrial Disease,Dermatitis",400000
+Stephen Brooks,137 FLINDERTON ROAD NEBRASKA USA,5029,"Individual Health Insurance,Aegon Life Insurance Co. Ltd.","In Process,ACTIVE",         2022/4/19,15,36,"Surgeries,Hystoscopy",400000
+Ronald Jones,3306 DRUMMOND STREET NEW JERSEY USA,5032,"Individual Health Insurance,Aegon Life Insurance Co. Ltd.","In Process,ACTIVE",2022-03-10,15,21,"Genetic Illness,Trisomy 13",400000
+Sharon Evans,3987 CONFEDERATE DRIVE NEW YORK USA,5038,"Individual Health Insurance,Aegon Life Insurance Co. Ltd.","Invalid,INVALID",2022-01-01,15,22,"Genetic Illness,Turner syndrome",400000
+Scott Peterson,4476 BRYAN STREET  NORTH CAROLINA USA,5041,"Individual Health Insurance,Aegon Life Insurance Co. Ltd.","In Process,ACTIVE",2022-03-29,15,23,"Industrial Disease,Respiratory Problems",400000
+Jack Butler,377 PEARCY AVENUE  FLORIDA USA,5044,"Individual Health Insurance,Aegon Life Insurance Co. Ltd.","Invalid,INVALID",2022-03-19,15,35,"Accident,Gun shot",400000
+Megan Ford,952 STILL STREET   OHIO USA,5047,"Individual Health Insurance,Aegon Life Insurance Co. Ltd.","Settled,RECOVERED",2022-05-10,15,30,"Accident,Gun shot",400000
+Jordan Holmes,132 MUDLICK ROAD WASHINGTON USA,5050,"Individual Health Insurance,Aegon Life Insurance Co. Ltd.","Invalid,INVALID",2022-09-05,15,34,"Industrial Disease,Musculoskeletal disorder",400000
+Mathew Wright,4170 POPLAR STREET  ILLIOIS USA,5013,"Individual Health Insurance,Aegon Life Insurance Co. Ltd.","Invalid,INVALID",2022-06-05,15,34,"Industrial Disease,Musculoskeletal disorder",400000
+Jessica Phillips,4852 VELTRI DRIVE ALASKA USA,5018,"Individual Health Insurance,Aegon Life Insurance Co. Ltd.","Settled,RECOVERED",2021-10-10,15,28,"Critical Illness,Kidney failure",400000
+Brian Styles,1368 RAOUL WALLENBERG PLACE CALIFORNIA USA,5021,"Individual Health Insurance,Aegon Life Insurance Co. Ltd.","In Process,ACTIVE",2021-11-12,15,35,"Accident,Current Shock",400000
+Jacob Allen,3880 HEDDENVIEW DRIVE PENNYSYLVIA USA,5035,"Individual Health Insurance,Aegon Life Insurance Co. Ltd.","In Process,ACTIVE",2022-05-05,15,24,"Surgeries,Oncology",400000
+Robert Miller,776 Harper street  kentucky 65 USA,5003,"Individual Health Insurance,Aegon Life Insurance Co. Ltd.","Settled,RECOVERED",2022-04-23,15,27,"Surgeries,Neurological Surgery",400000

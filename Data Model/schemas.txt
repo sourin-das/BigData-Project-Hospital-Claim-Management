@@ -1,0 +1,108 @@
+				TABLES
+
+CLAIM.csv
+
+Patient_ID int(6)
+Insurance_ID int(6)
+Claim_ID int(6)
+Group_ID int(6)
+Claim_Type varchar(15s)
+Issue_Date date
+Risk_Category varchar(30)
+Premium_plan_type varchar(30)
+Claim_amount int(11)
+Handling_type varchar(30)
+Settlement varchar(30)
+Claim_Status varchar(30)
+Submission_method varchar(30)
+Country varchar(30)
+
+
+Insurer.csv
+
+Insurance_ID int(6)
+Company_name varchar(30)
+Insurance_name varchar(30)
+Start_date Date
+End_date Date
+Effective_date Date
+Insurance_base_amount int(8)
+Insurance_status varchar(30)
+Term int(3)
+Topup_Amount int(8)
+Insurance_Cover int(3)
+
+
+Patient.csv
+
+Patient_ID int(6)
+Insurance_ID int(6)
+First_name varchar(30)
+Last_name varchar(30)
+Gender varchar(5)
+DOB Date
+Phone Bigint
+Nationality varchar(30)
+Hospital_ID int(6)
+Insurance_type varchar(30)
+Address varchar(50)
+Country varchar(30)
+
+
+Hospital.csv
+
+Hospital_ID int(6)
+Hospital_name varchar(30)
+Hospital_city varchar(30)
+Insurance_ID int(6)
+Insurance_company varchar(30)
+
+
+Group.csv
+
+Group_ID int(6)
+Group_name varchar(30)
+Effective_date Date
+Term(M) int(3)
+
+
+Subgroup.csv
+
+Subgroup_ID int(6)
+Group_ID int(6)
+Subgroup_name varchar(30)
+Effective_date Date
+Term(M) int(3)
+
+
+
+FINAL_TABLE
+
+Patient_name varchar(30)
+Patient_address varchar(50)
+Claim_ID int(6)
+Insurance_Details varchar(80)
+Claim_Status_Details varchar(30)
+Claim_issue_date Date
+Insurer_term int(3)
+Patient_age int(3)
+Group_details varchar(50)
+Insurance_amount int(8)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

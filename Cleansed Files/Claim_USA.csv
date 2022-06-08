@@ -1,0 +1,16 @@
+Patient ID,Insurance ID,Claim ID,Group ID,Claim Type,     Issue Date,Risk Category,Premium Plan Type,  Claim Amount,Handling Type,Settlement,Claim Status,Submission Method,Country
+56005,1001,5005,76891,Cashless,2021-12-02,High,Monthly,20000,Complex,In Process,ACTIVE,Internet,USA
+56008,1001,5008,76892,Cashless ,2022-01-05,Low,Monthly,35000,Standard,Settled,RECOVERED,Internet,USA
+56022,1001,5022,76892,Reimbursement,2021-04-12,Low,Quaterly,24100,Standard,Settled,RECOVERED,Mail,USA
+56029,1001,5029,76894,Cashless ,2022-04-19,High,Semi-annualy,49500,Accelerated,In Process,ACTIVE,Call,USA
+56032,1001,5032,76895,Reimbursement,2022-03-10,High,Quaterly,32000,Accelerated,In Process,ACTIVE,Call,USA
+56038,1001,5038,76895,Reimbursement,2022-01-01,Medium,Monthly,20000,Express,Invalid,INVALID,Mail,USA
+56041,1001,5041,76892,Cashless ,2022-03-29,Low,Semi-annualy,45000,Standard,In Process,ACTIVE REVIEW,Mail,USA
+56044,1001,5044,76891,Cashless ,2022-03-19,Medium,Quaterly,50000,Express,Invalid,INVALID,Internet,USA
+56047,1001,5047,76891,Cashless ,2022-05-10,Low,Monthly,37000,Standard,Settled,RECOVERED,Internet,USA
+56050,1001,5050,76892,Reimbursement,2022-09-05,High,Semi-annualy,29000,Accelerated,Invalid,INVALID,Mail,USA
+56013,1001,5013,76892,Cashless,2022-06-05,High,Semi-annualy,41000,Standard,Invalid,INVALID,Mail,USA
+56018,1001,5018,76893,Reimbursement,2021-10-10,Low,Semi-annualy,59000,Standard,Settled,RECOVERED,Mail,USA
+56021,1001,5021,76891,Reimbursement,2021-11-12,High,Monthly,20500,Standard,Settled,ACTIVE,Internet,USA
+56035,1001,5035,76894,Cashless,2022-05-05,Low,Quaterly,19999,Express,In Process,ACTIVE,Mail,USA
+56003,1001,5003,76894,Reimbursement,2022-04-23,Low,Quaterly,22500,Standard,In Process,RECOVERED,Mail,USA

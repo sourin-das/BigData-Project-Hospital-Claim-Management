@@ -1,0 +1,26 @@
+,Group_ID,Effective_date_x,Term_x,Subgroup_ID,Effective_date_y,Term_y,Group_Details
+0,76891,2021-12-12,12,56431,2021-12-04,32,Accident - Road-traffic accident
+1,76891,2021-12-12,12,56432,2021-09-22,23,Accident - Fractures caused by falls
+2,76891,2021-12-12,12,56433,2022-05-05,15,Accident - Gun shot
+3,76891,2021-12-12,12,56434,2022-04-27,26,Accident - Burn Cases
+4,76891,2021-12-12,12,56435,2022-01-01,10,Accident - Current Shock
+5,76892,2022-03-01,36,56441,2022-01-23,32,Industrial Disease - Industrial deafness
+6,76892,2022-03-01,36,56442,2021-09-22,23,Industrial Disease - Respiratory Problems
+7,76892,2022-03-01,36,56443,2022-05-05,15,Industrial Disease - Breathing Problems
+8,76892,2022-03-01,36,56444,2022-04-27,26,Industrial Disease - Dermatitis
+9,76892,2022-03-01,36,56445,2022-01-01,10,Industrial Disease - Musculoskeletal disorder
+10,76893,2021-04-11,30,56451,2022-01-23,30,Critical Illness - Cancer
+11,76893,2021-04-11,30,56452,2021-09-22,27,Critical Illness - Major organ transplant
+12,76893,2021-04-11,30,56453,2022-05-05,15,Critical Illness - Kidney failure
+13,76893,2021-04-11,30,56454,2022-04-27,26,Critical Illness - Paralysis
+14,76893,2021-04-11,30,56455,2022-01-01,10,Critical Illness - First heart attack
+15,76894,2022-05-18,24,56461,2022-01-23,30,Surgeries - Neurological Surgery
+16,76894,2022-05-18,24,56462,2021-09-22,27,Surgeries - Oncology
+17,76894,2022-05-18,24,56463,2022-04-04,20,Surgeries - Chemotherapy
+18,76894,2022-05-18,24,56464,2022-04-27,15,Surgeries - Hystoscopy
+19,76894,2022-05-18,24,56465,2022-01-01,10,Surgeries - Nasal Concha
+20,76895,2022-05-14,26,56471,2022-01-23,30,Genetic Illness - Down syndrome
+21,76895,2022-05-14,26,56472,2021-09-22,27,Genetic Illness - FragileX syndrome
+22,76895,2022-05-14,26,56473,2022-04-04,20,Genetic Illness - Turner syndrome
+23,76895,2022-05-14,26,56474,2022-04-27,28,Genetic Illness - Trisomy 18
+24,76895,2022-05-14,26,56475,2022-01-01,14,Genetic Illness - Trisomy 13

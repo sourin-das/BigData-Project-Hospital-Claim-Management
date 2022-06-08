@@ -1,0 +1,4 @@
+Insurance ID,Company Name,Insurance Name,Start Date,End Date,Effective date,Insurance Base Amount,Insurance Status,Term(Yrs),TopUp Amount,Insurance Cover
+1001,Aegon Life Insurance Co. Ltd.,Individual Health Insurance,2020-01-01,2036-01-01,2020-01-15,200000,Active,15,200000,4
+1002,Edelweiss  Life Insurance Co.,Family Health Insurance,2020-01-03,2039-01-03,2020-03-15,300000,Active,18,300000,3
+1003,Birla Sun Life Insurance Co.,Critical illness Insurance,2020-02-05,2041-02-05,2020-05-17,400000,Active,20,150000,3

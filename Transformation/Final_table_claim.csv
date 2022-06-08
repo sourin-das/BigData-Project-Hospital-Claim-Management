@@ -1,0 +1,58 @@
+,Patient_ID,Insurance_ID,Claim_ID,Group_ID,Claim_Type,Issue_date,Risk_category,Premium_plan_type,Claim_Amount,Handling_type,Submission_method,Country,claim_status_details
+0,45104,1003,4007,76895,Cashless,2021-12-12,High,Monthly,20000,Complex,Internet,India,In Process ACTIVE
+1,45106,1003,4009,76894,Reimbursement,2022-05-09,High,Semi-annualy,29000,Accelerated,Mail,India,Invalid INVALID
+2,45111,1003,4014,76893,Cashless ,2022-01-03,Low,Monthly,35000,Standard,Internet,India,Settled RECOVERED
+3,45113,1003,4016,76895,Reimbursement,2021-11-12,High,Monthly,20500,Standard,Internet,India,Settled ACTIVE
+4,45117,1003,4020,76891,Reimbursement,2021-11-04,Low,Quaterly,24100,Standard,Mail,India,Settled RECOVERED
+5,45121,1003,4024,76892,Cashless,2022-04-30,Low,Quaterly,19999,Express,Mail,India,In Process ACTIVE
+6,45123,1003,4026,76891,Cashless ,2022-05-18,High,Semi-annualy,49500,Accelerated,Call,India,In Process ACTIVE
+7,45127,1003,4030,76894,Cashless,2022-04-21,High,Semi-annualy,41000,Standard,Mail,India,Invalid INVALID
+8,45128,1003,4031,76892,Reimbursement,2022-05-14,High,Quaterly,32000,Accelerated,Call,India,In Process ACTIVE
+9,45134,1003,4037,76891,Reimbursement,2022-04-07,Low,Semi-annualy,59000,Standard,Mail,India,Settled RECOVERED
+10,45135,1003,4038,76892,Reimbursement,2022-04-01,Medium,Monthly,20000,Express,Mail,India,Invalid INVALID
+11,45139,1003,4042,76891,Cashless ,,Low,Semi-annualy,45000,Standard,Mail,India,In Process ACTIVE
+12,45142,1003,4045,76895,Cashless ,2022-03-31,Medium,Quaterly,50000,Express,Internet,India,Invalid INVALID
+13,45145,1003,4048,76894,Cashless ,2022-05-08,Low,Monthly,37000,Standard,Internet,India,Settled RECOVERED
+14,45147,1003,4050,76893,Reimbursement,2022-04-23,Low,Quaterly,22500,Standard,Mail,India,In Process RECOVERED
+15,45148,1002,4051,76891,Cashless,2021-12-31,High,Monthly,20000,Complex,Internet,Germany,In Process ACTIVE
+16,45150,1002,4053,76891,Cashless,2021-05-22,Low,Monthly,35000,Standard,Internet,Germany,Settled RECOVERED
+17,45152,1002,4055,76891,Reimbursement,2022-02-02,Low,Quaterly,24100,Standard,Mail,Germany,Settled RECOVERED
+18,45156,1002,4059,76892,Cashless,2021-09-16,High,Semi-annualy,49500,Accelerated,Call,Germany,In Process ACTIVE
+19,45104,1003,4060,76891,Reimbursement,2022-01-14,Low,Monthly,25000,Complex,Mail,India,In Process ACTIVE
+20,45158,1002,4061,76893,Reimbursement,2022-01-21,High,Quaterly,32000,Accelerated,Call,Germany,In Process ACTIVE
+21,45163,1002,4066,76894,Reimbursement,2021-12-08,Medium,Monthly,28000,Express,Mail,Germany,Invalid INVALID
+22,45111,1003,4069,76892,Cashless,2022-03-03,Low,Quaterly,40000,Complex,Internet,India,Settled ACTIVE
+23,45167,1002,4070,76891,Cashless,2022-03-01,Low,Semi-annualy,45000,Standard,Mail,Germany,In Process ACTIVE REVIEW
+24,45169,1002,4072,76891,Cashless,2021-12-11,Medium,Quaterly,50000,Express,Internet,Germany,Invalid INVALID
+25,45117,1003,4073,76893,Reimbursement,2022-01-23,High,Semi-annualy,30000,Standard,Call,India,Settled RECOVERED
+26,45123,1003,4074,76894,Reimbursement,2022-01-15,Low,Monthly,37000,Accelerated,Mail,India,In Process ACTIVE
+27,45174,1002,4077,76892,Cashless,2022-01-02,Low,Monthly,37000,Standard,Internet,Germany,Settled RECOVERED
+28,45177,1002,4080,76895,Reimbursement,2022-01-01,High,Semi-annualy,29000,Accelerated,Mail,Germany,Invalid INVALID
+29,45135,1003,4081,76894,Reimbursement,2022-11-02,High,Semi-annualy,25500,Express,Call,India,Invalid ACTIVE
+30,45183,1002,4086,76895,Cashless,2022-01-22,High,Semi-annualy,45000,Accelerated,Mail,Germany,Settled RECOVERED
+31,45186,1002,4089,76895,Reimbursement,2022-01-02,Low,Monthly,37000,Express,Internet,Germany,Settled RECOVERED
+32,45128,1003,4090,76891,Cashless,2022-07-03,High,Quaterly,27000,Express,Internet,India,Invalid INVALID
+33,45193,1002,4096,76894,Cashless,2021-03-11,Medium,Quaterly,34000,Standard,Call,Germany,Invalid INVALID
+34,45195,1002,4098,76893,Reimbursement,2022-06-05,High,Semi-annualy,43000,Accelerated,Call,Germany,Process ACTIVE
+35,45197,1002,4100,76892,Cashless,2022-12-05,High,Semi-annualy,23000,Standard,Mail,Germany,Process ACTIVE
+36,45150,1002,4101,76891,Cashless,2021-09-08,Low,Monthly,36000,Standard,Internet,Germany,Settled RECOVERED
+37,45152,1002,4103,76891,Reimbursement,2022-05-04,Low,Quaterly,29100,Standard,Mail,Germany,Settled RECOVERED
+38,45156,1002,4105,76892,Cashless,2021-03-09,High,Semi-annualy,47500,Accelerated,Call,Germany,In Process ACTIVE
+39,45158,1002,4107,76893,Reimbursement,2021-09-29,High,Quaterly,34000,Accelerated,Call,Germany,In Process ACTIVE
+40,45163,1002,4109,76894,Reimbursement,2022-02-02,Medium,Monthly,29000,Express,Mail,Germany,Invalid INVALID
+41,45148,1002,4110,76892,Cashless,2022-04-02,High,Monthly,40000,Complex,Internet,Germany,In Process ACTIVE
+42,56003,1001,5003,76894,Reimbursement,2022-04-23,Low,Quaterly,22500,Standard,Mail,USA,In Process RECOVERED
+43,56005,1001,5005,76891,Cashless,2021-12-02,High,Monthly,20000,Complex,Internet,USA,In Process ACTIVE
+44,56008,1001,5008,76892,Cashless ,2022-01-05,Low,Monthly,35000,Standard,Internet,USA,Settled RECOVERED
+45,56013,1001,5013,76892,Cashless,2022-06-05,High,Semi-annualy,41000,Standard,Mail,USA,Invalid INVALID
+46,56018,1001,5018,76893,Reimbursement,2021-10-10,Low,Semi-annualy,59000,Standard,Mail,USA,Settled RECOVERED
+47,56021,1001,5021,76891,Reimbursement,2021-11-12,High,Monthly,20500,Standard,Internet,USA,Settled ACTIVE
+48,56022,1001,5022,76892,Reimbursement,2021-04-12,Low,Quaterly,24100,Standard,Mail,USA,Settled RECOVERED
+49,56029,1001,5029,76894,Cashless ,2022-04-19,High,Semi-annualy,49500,Accelerated,Call,USA,In Process ACTIVE
+50,56032,1001,5032,76895,Reimbursement,2022-03-10,High,Quaterly,32000,Accelerated,Call,USA,In Process ACTIVE
+51,56035,1001,5035,76894,Cashless,2022-05-05,Low,Quaterly,19999,Express,Mail,USA,In Process ACTIVE
+52,56038,1001,5038,76895,Reimbursement,2022-01-01,Medium,Monthly,20000,Express,Mail,USA,Invalid INVALID
+53,56041,1001,5041,76892,Cashless ,2022-03-29,Low,Semi-annualy,45000,Standard,Mail,USA,In Process ACTIVE REVIEW
+54,56044,1001,5044,76891,Cashless ,2022-03-19,Medium,Quaterly,50000,Express,Internet,USA,Invalid INVALID
+55,56047,1001,5047,76891,Cashless ,2022-05-10,Low,Monthly,37000,Standard,Internet,USA,Settled RECOVERED
+56,56050,1001,5050,76892,Reimbursement,2022-09-05,High,Semi-annualy,29000,Accelerated,Mail,USA,Invalid INVALID

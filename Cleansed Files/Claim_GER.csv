@@ -1,0 +1,22 @@
+Patient ID,Insurance ID,Claim ID,Group ID,Claim Type,     Issue Date,Risk Category,Premium Plan Type,  Amount,Handling Type,Settlement,Claim Status,Submition Method,Country
+45148,1002,4110,76892,Cashless,2022-04-02,High,Monthly,40000,Complex,In Process,ACTIVE,Internet,Germany
+45148,1002,4051,76891,Cashless,2021-12-31,High,Monthly,20000,Complex,In Process,ACTIVE,Internet,Germany
+45150,1002,4053,76891,Cashless,2021-05-22,Low,Monthly,35000,Standard,Settled,RECOVERED,Internet,Germany
+45150,1002,4101,76891,Cashless,2021-09-08,Low,Monthly,36000,Standard,Settled,RECOVERED,Internet,Germany
+45152,1002,4055,76891,Reimbursement,2022-02-02,Low,Quaterly,24100,Standard,Settled,RECOVERED,Mail,Germany
+45152,1002,4103,76891,Reimbursement,2022-05-04,Low,Quaterly,29100,Standard,Settled,RECOVERED,Mail,Germany
+45156,1002,4059,76892,Cashless,2021-09-16,High,Semi-annualy,49500,Accelerated,In Process,ACTIVE,Call,Germany
+45156,1002,4105,76892,Cashless,2021-03-09,High,Semi-annualy,47500,Accelerated,In Process,ACTIVE,Call,Germany
+45158,1002,4061,76893,Reimbursement,2022-01-21,High,Quaterly,32000,Accelerated,In Process,ACTIVE,Call,Germany
+45158,1002,4107,76893,Reimbursement,2021-09-29,High,Quaterly,34000,Accelerated,In Process,ACTIVE,Call,Germany
+45163,1002,4066,76894,Reimbursement,2021-12-08,Medium,Monthly,28000,Express,Invalid,INVALID,Mail,Germany
+45163,1002,4109,76894,Reimbursement,2022-02-02,Medium,Monthly,29000,Express,Invalid,INVALID,Mail,Germany
+45167,1002,4070,76891,Cashless,2022-03-01,Low,Semi-annualy,45000,Standard,In Process,ACTIVE REVIEW,Mail,Germany
+45169,1002,4072,76891,Cashless,2021-12-11,Medium,Quaterly,50000,Express,Invalid,INVALID,Internet,Germany
+45174,1002,4077,76892,Cashless,2022-01-02,Low,Monthly,37000,Standard,Settled,RECOVERED,Internet,Germany
+45177,1002,4080,76895,Reimbursement,2022-01-01,High,Semi-annualy,29000,Accelerated,Invalid,INVALID,Mail,Germany
+45183,1002,4086,76895,Cashless,2022-01-22,High,Semi-annualy,45000,Accelerated,Settled,RECOVERED,Mail,Germany
+45186,1002,4089,76895,Reimbursement,2022-01-02,Low,Monthly,37000,Express,Settled,RECOVERED,Internet,Germany
+45193,1002,4096,76894,Cashless,2021-03-11,Medium,Quaterly,34000,Standard,Invalid,INVALID,Call,Germany
+45195,1002,4098,76893,Reimbursement,2022-06-05,High,Semi-annualy,43000,Accelerated,Process,ACTIVE,Call,Germany
+45197,1002,4100,76892,Cashless,2022-12-05,High,Semi-annualy,23000,Standard,Process,ACTIVE,Mail,Germany

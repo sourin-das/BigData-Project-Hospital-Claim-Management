@@ -1,0 +1,16 @@
+Hospital ID,Hospital Name,Hospital City,Insurance ID,Insurance Company
+70001,The Johns Hopkins Hospital,Baltimore MD,1001,Aegon Life Insurance Co. Ltd.
+70002,Massachusetts General Hospital,Boston MA,1001,Aegon Life Insurance Co. Ltd.
+70003,UCSF Medical Center,San Francisco CA,1001,Aegon Life Insurance Co. Ltd.
+70004,Mayo Clinic ,Phoenix AZ,1001,Aegon Life Insurance Co. Ltd.
+70005,Brigham And Women's Hospital,Boston MA,1001,Aegon Life Insurance Co. Ltd.
+80001,Rechts der Isar Hospital,Munich,1002,Edelweiss  Life Insurance Co.
+80002,University Hospital Cologne,Cologne,1002,Edelweiss  Life Insurance Co.
+80003,University Medical Center,Freiburg,1002,Edelweiss  Life Insurance Co.
+80004,University Medical Center Schleswig Holstein,Keil,1002,Edelweiss  Life Insurance Co.
+80005,University Hospital Regensburg,Regensburg,1002,Edelweiss  Life Insurance Co.
+90001,Rainbow Hospitals,Hyderabad,1003,Birla Sun Life Insurance Co.
+90002,Apollo Hospital,Visakhapatnam,1003,Birla Sun Life Insurance Co.
+90003,Gauhati Medical College and Hospital,Gauhati,1003,Birla Sun Life Insurance Co.
+90004,AIIMS,Patna,1003,Birla Sun Life Insurance Co.
+90005,Ruby General Hospital,Kolkata,1003,Birla Sun Life Insurance Co.

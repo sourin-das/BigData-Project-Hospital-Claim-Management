@@ -1,0 +1,26 @@
+Subgroup ID,Goup ID,Subgroup Name,Effective Date,Term(M)
+56431,76891,Road-traffic accident,2021-12-04,32
+56432,76891,Fractures caused by falls,2021-09-22,23
+56433,76891,Gun shot,2022-05-05,15
+56434,76891,Burn Cases,2022-04-27,26
+56435,76891,Current Shock,2022-01-01,10
+56441,76892,Industrial deafness,2022-01-23,32
+56442,76892,Respiratory Problems,2021-09-22,23
+56443,76892,Breathing Problems,2022-05-05,15
+56444,76892,Dermatitis,2022-04-27,26
+56445,76892,Musculoskeletal disorder,2022-01-01,10
+56451,76893,Cancer,2022-01-23,30
+56452,76893,Major organ transplant,2021-09-22,27
+56453,76893,Kidney failure,2022-05-05,15
+56454,76893,Paralysis,2022-04-27,26
+56455,76893,First heart attack,2022-01-01,10
+56461,76894,Neurological Surgery,2022-01-23,30
+56462,76894,Oncology,2021-09-22,27
+56463,76894,Chemotherapy,2022-04-04,20
+56464,76894,Hystoscopy,2022-04-27,15
+56465,76894,Nasal Concha,2022-01-01,10
+56471,76895,Down syndrome,2022-01-23,30
+56472,76895,FragileX syndrome,2021-09-22,27
+56473,76895,Turner syndrome,2022-04-04,20
+56474,76895,Trisomy 18,2022-04-27,28
+56475,76895,Trisomy 13,2022-01-01,14

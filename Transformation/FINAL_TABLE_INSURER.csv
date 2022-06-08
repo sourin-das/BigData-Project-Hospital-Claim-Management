@@ -1,0 +1,4 @@
+,Insurance_ID,Start_date,End_date,Effective_date,Insurance_Status,Term,Topup_amount,Insurance_Cover,Handling_risk
+0,1001,2020-01-01,2036-01-01,2020-01-15,200000,0,15,200000,Aegon Life Insurance Co. Ltd.Individual Health Insurance
+1,1002,2020-01-03,2039-01-03,2020-03-15,300000,0,18,300000,Edelweiss  Life Insurance Co.Family Health Insurance
+2,1003,2020-02-05,2041-02-05,2020-05-17,400000,0,20,150000,Birla Sun Life Insurance Co.Critical illness Insurance

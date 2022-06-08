@@ -1,0 +1,21 @@
+
+					USE CASE
+
+Patient- This module is to display the patient name, insurance ID, address, phone number, age, type of 
+insurance, nationality etc..gives the detailed information of patient.
+
+Claim- This module is to display the claim id, claim type whether it is cashless or reimbursement, 
+amount of claim, risk category level as High, Medium and Low, status etc.. This module is a request that 
+a health insurance policyholder submits to the Insurance Company in order to obtain the services.
+
+Insurer- This module is the Insurance company with insurance id, name, status, effective dates, 
+insurance amount etc...This module is used to pay for the patient's healthcare cost according to the claim.
+
+Group- This module will summarise the various disease parent type for every claim. Like Accidental, surgery etc.
+
+
+
+Hospital- This module holds information about the hospitals that patients get admitted to, contains Hospital information.
+
+
+Subgroup- This is a child module for group, that contains the detailed disease name under each group.

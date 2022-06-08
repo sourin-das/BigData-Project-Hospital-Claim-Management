@@ -1,0 +1,47 @@
+Project Name:   Hospital Claim Management System
+Batch: INTCDB22DW075
+
+
+Technologies need to be used..
+1. Unix
+2. MySql
+3. Python
+4. HDFS
+5. SQOOP
+6. HIVE
+7. Python analytics packages
+
+Steps
+
+1. Get external source file
+2. Place all ext source file in UNIX
+3. Load all source file from UNIX to MYSQL by appyling minimal data quality rules
+4. Apply transformation rules using Python and Load data into hive tables
+5. Same Data should move to HDFS by Sqoop
+6. Build analytical graph from Hive tables
+
+
+Modules:
+1. Subscriber or Patient
+2. Claims
+3. Group
+4. Sub Group
+5. Insurer
+6. Hospital
+
+Subs and ins data are in csv files.
+150 Patient with 3 insurance company >>>> 
+Each csv files contains 50patient.
+3claims files are there in csv format>>> Each claim files would have One Country in particular !!
+Grp and sub grp are in txt.
+
+For each module min of 10 column.(Subs,claims and insurer.)
+For grp and sub grp 5-6 column.
+
+OUTPUT: Show the graph of 6month claims based on the patient age.
+		Patient vs their age for 6months, based on month.
+		Patient claims based on disease.
+
+
+
+req: Hurdles company has, our committment( cleaning data ), business goal.!!
